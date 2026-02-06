@@ -1,0 +1,114 @@
+{
+  "software_engineer": {
+    "label": "Software Engineer",
+    "description": "Generalist software engineer working on backend and/or full-stack systems.",
+    "core_skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "REST APIs",
+      "GraphQL",
+      "SQL",
+      "NoSQL",
+      "Git",
+      "Unit testing",
+      "Integration testing",
+      "CI/CD",
+      "Data structures",
+      "Algorithms",
+      "Object-oriented design",
+      "System design",
+      "Cloud (AWS)",
+      "Cloud (GCP)",
+      "Cloud (Azure)",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  "backend_engineer": {
+    "label": "Backend Engineer",
+    "description": "Engineer focused on server-side APIs, services, and data layers.",
+    "core_skills": [
+      "Python",
+      "Java",
+      "Go",
+      "Node.js",
+      "REST APIs",
+      "gRPC",
+      "SQL",
+      "Database design",
+      "Caching",
+      "Message queues",
+      "Microservices",
+      "Monitoring and observability",
+      "Logging",
+      "Authentication and authorization",
+      "Security best practices",
+      "Performance optimization",
+      "Cloud (AWS)",
+      "Cloud (GCP)",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  "frontend_engineer": {
+    "label": "Frontend Engineer",
+    "description": "Engineer focused on building web user interfaces.",
+    "core_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "HTML",
+      "CSS",
+      "Responsive design",
+      "Accessibility",
+      "Frontend testing",
+      "State management",
+      "Performance optimization",
+      "Browser APIs",
+      "UI/UX collaboration",
+      "Design systems"
+    ]
+  },
+  "data_scientist": {
+    "label": "Data Scientist",
+    "description": "Data scientist working on analytics, ML models, and experimentation.",
+    "core_skills": [
+      "Python",
+      "R",
+      "SQL",
+      "Statistics",
+      "Machine learning",
+      "Data visualization",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "Feature engineering",
+      "Model evaluation",
+      "Experiment design",
+      "A/B testing",
+      "Communication of insights"
+    ]
+  },
+  "product_manager": {
+    "label": "Product Manager",
+    "description": "Product manager responsible for product strategy and execution.",
+    "core_skills": [
+      "Roadmap planning",
+      "Stakeholder management",
+      "User research",
+      "Requirements gathering",
+      "Prioritization",
+      "Data-driven decision making",
+      "Experimentation",
+      "Story writing",
+      "Agile methodologies",
+      "Cross-functional collaboration",
+      "Go-to-market planning",
+      "Communication",
+      "Presentation"
+    ]
+  }
+}
+
