@@ -2,6 +2,19 @@
 
 Professional, ATS-style resume screening tool that analyzes resumes against predefined job roles using Google Gemini. The backend is built with FastAPI and can be deployed behind InsForge; the frontend is a lightweight Streamlit app.
 
+### 📚 Documentation
+
+For a detailed explanation of the codebase with comprehensive architecture diagrams, flow explanations, and component descriptions, see:
+
+**[CODE_FLOW_DOCUMENTATION.md](./CODE_FLOW_DOCUMENTATION.md)** - Complete technical documentation with:
+- System architecture diagrams
+- Detailed code flow explanations
+- Component breakdown and interactions
+- API contracts and data models
+- Configuration and deployment guides
+- Error handling strategies
+- Security and performance considerations
+
 ### Features
 
 - **Resume upload**: PDF or plain-text resumes.
